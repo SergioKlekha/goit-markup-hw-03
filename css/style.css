@@ -371,9 +371,6 @@ margin-right: 76px;
     font-family: 'Raleway';
 }
 
-.footer-wrap {
-    width: 264px;
-}
 
 .footer-logo {
     font-family: 'Raleway',sans-serif;
@@ -394,4 +391,5 @@ margin-right: 76px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         padding-top: 17.5px;
+        width: 264px;
 }
