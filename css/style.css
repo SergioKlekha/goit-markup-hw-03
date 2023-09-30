@@ -222,6 +222,7 @@ margin-right: 76px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        margin-bottom: 8px;
 }
 
 .feature-text {
@@ -250,11 +251,13 @@ margin-right: 76px;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
-        padding-bottom: 72px;
+        margin-bottom: 72px;
+        
 }
 
 .team-list {
     display: flex;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-item:not(:last-child) {
@@ -262,7 +265,7 @@ margin-right: 76px;
 }
 
 .team-item {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .team-image {
@@ -381,6 +384,8 @@ margin-right: 76px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+        display: inline-block;
+        margin-right: 16px;
 }
 
 .footer-text {
